@@ -39,3 +39,7 @@ Repositório de estudos
 8. Longa lista de parâmetros
 
 - Introdução de objetos
+
+## Design Patterns
+
+Strategy, Factory e Chain of Responsability
